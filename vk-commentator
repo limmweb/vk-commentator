@@ -11,9 +11,9 @@ from google.oauth2.service_account import Credentials
 import random
 
 # Настройки
-VK_API_TOKEN = ''
-OPENAI_API_KEY = ''
-GOOGLE_SHEET_ID = ''
+VK_API_TOKEN = '' # ВАШ КЛЮЧ ВК
+OPENAI_API_KEY = '' ВАШ КЛЮЧ OPEN AI
+GOOGLE_SHEET_ID = '' ID ВАШЕЙ ГУГЛ ТАБЛИЦЫ
 COMMENT_PAUSE_MINUTES = 10
 SLEEP_AFTER_EMPTY_MINUTES = 10
 API_DELAY = 0.2
